@@ -11,11 +11,11 @@ Welcome to my GitHub profile 😄.
 - I build hardware using embedded electronics, custom firmwares, and 3D printed enclosures 🛰️.
 
 - I have a keen interest in
-  </br>- Finance 💷
-  </br>- Aerospace 🚀
-  </br>- Architecture 🏛️
-  </br>- Design ✨
-  </br>- Philosophy 🧠
+  </br>• Finance 💷
+  </br>• Aerospace 🚀
+  </br>• Architecture 🏛️
+  </br>• Design ✨
+  </br>• Philosophy 🧠
 
 - I enjoy sharing my knowledge through blog posts that cover my interests 💭.
 
