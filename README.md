@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile 😄.
 
-## 👨‍💻 About
+## About
 
 - I’m working as a full-stack software engineer in London, UK 🇬🇧.
 
@@ -19,7 +19,9 @@ Welcome to my GitHub profile 😄.
 
 - I enjoy sharing my knowledge through blog posts that cover my interests 💭.
 
-## 📫 Contact
+## Contact
 
 - 🌐 Website: [sahilmemon.dev](https://sahilmemon.dev)
 - ✉️ Email: [sahilm01@icloud.com](mailto:sahilm01@icloud.com)
+
+© 2026 Sahil Memon. All rights reserved.
