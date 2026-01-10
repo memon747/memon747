@@ -24,4 +24,4 @@ Welcome to my GitHub profile 😄.
 - Website: [sahilmemon.dev](https://sahilmemon.dev)
 - Email: [sahilm01@icloud.com](mailto:sahilm01@icloud.com)
 
-###### © 2026 Sahil Memon. All rights reserved.
+##### © 2026 Sahil Memon. All rights reserved.
